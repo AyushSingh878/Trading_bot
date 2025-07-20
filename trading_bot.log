@@ -1,0 +1,54 @@
+2025-07-19 19:05:44,382 - INFO - TradingBot initialized successfully
+2025-07-19 19:05:44,814 - ERROR - Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:05:44,814 - ERROR - Main execution error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:06:54,208 - INFO - TradingBot initialized successfully
+2025-07-19 19:06:54,718 - ERROR - Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:06:54,718 - ERROR - Main execution error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:07:17,558 - INFO - TradingBot initialized successfully
+2025-07-19 19:07:18,076 - ERROR - Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:07:18,076 - ERROR - Main execution error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:08:05,261 - INFO - TradingBot initialized successfully and time synchronized with Binance server
+2025-07-19 19:08:05,784 - ERROR - Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:08:05,784 - ERROR - Main execution error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-07-19 19:09:15,725 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35217 ms
+2025-07-19 19:09:16,174 - ERROR - Error placing market order: APIError(code=-2014): API-key format invalid.
+2025-07-19 19:09:16,174 - ERROR - Main execution error: APIError(code=-2014): API-key format invalid.
+2025-07-19 19:19:22,766 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35214 ms
+2025-07-19 19:19:23,198 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:19:23,198 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:22:06,030 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35141 ms
+2025-07-19 19:22:06,460 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:22:06,461 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:23:36,620 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35195 ms
+2025-07-19 19:23:37,049 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:23:37,049 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:25:30,248 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35171 ms
+2025-07-19 19:25:30,402 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:25:30,402 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:25:41,373 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35137 ms
+2025-07-19 19:25:41,829 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:25:41,829 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:28:22,138 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35138 ms
+2025-07-19 19:28:22,574 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:28:22,574 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:36:28,631 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35217 ms
+2025-07-19 19:36:29,059 - ERROR - Error placing market order: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:36:29,059 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:49:24,123 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35209 ms
+2025-07-19 19:49:24,551 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 19:51:46,891 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35145 ms
+2025-07-19 19:51:47,318 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:01:51,104 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35192 ms
+2025-07-19 20:01:51,533 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:02:04,456 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35225 ms
+2025-07-19 20:02:04,969 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:03:46,559 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35150 ms
+2025-07-19 20:03:46,985 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:04:01,607 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35214 ms
+2025-07-19 20:04:02,117 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:04:08,568 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35230 ms
+2025-07-19 20:04:08,774 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:09:19,463 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35237 ms
+2025-07-19 20:09:19,976 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-07-19 20:13:53,284 - INFO - TradingBot initialized successfully and time synchronized with Binance server. Offset: -35226 ms
+2025-07-19 20:13:53,491 - ERROR - Main execution error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
